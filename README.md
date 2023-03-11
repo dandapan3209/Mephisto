@@ -4,24 +4,12 @@ Mephisto is a browser extension that enables next best move analysis and automat
 
 ## Getting Started
 
-<a href="https://chrome.google.com/webstore/detail/mephisto-chess-extension/ihpdlpgcjepplokoncjelcbbcedgnanp" style="border: 1px solid white">
-  <img src="https://github.com/AlexPetrusca/Mephisto/blob/master/res/chrome-web-store.png" align="center" height="66px" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://addons.mozilla.org/en-US/firefox/addon/mephisto-chess-extension">
-  <img src="https://github.com/AlexPetrusca/Mephisto/blob/master/res/firefox_web_store.png" align="center" height="66px" />
-</a>
-<br>
-<br>
-
 Click Mephisto's icon to open its popup window and automatically scrape the current page for a chess position to 
 analyze. For ease of use, pin Mephisto in chrome's extensions menu. Click the puzzle icon to the right of Chrome's address bar. 
 Find "Mephisto Chess Extension" and click the pin icon to the right of it.
 
 You may notice that when you click outside of Mephisto's popup window, the popup will lose focus and close. To prevent
 this, right-click the pinned icon and click 'Inspect Popup'. 
-
-For more information, see [Getting Started](https://github.com/AlexPetrusca/Mephisto/wiki/Getting-Started).
 
 
 ## How to Develop Locally
@@ -37,8 +25,6 @@ Test a code change:
 2. Reload Mephisto Chess Extension
 3. Reload the webpage you want to test on
 4. Test the changes
-
-For technical details, see [Technical Overview](https://github.com/AlexPetrusca/Mephisto/wiki/Technical-Overview).
 
 
 ## How to Contribute
